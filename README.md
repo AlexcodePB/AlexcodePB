@@ -5,7 +5,7 @@ I'm a full stack software developer with a passion for building robust and scala
 ### My Technical Expertise
 
 - Developing web applications using modern front-end frameworks such as React and Angular
-- Back-end technologies like Node.js and PHP
+- Back-end technologies like Node.js and Java +8
 - Working with databases such as MongoDB and MySQL
 
 ### My Interests
